@@ -78,7 +78,7 @@ function ContextProvider(props) {
       if (flag) {
         setflag(true)
         clearInterval(ref);
-        setMessage(`Congratulations You Won With Time`);
+        setMessage(`Congratulations You Won With duration`);
       }
     }
   }
