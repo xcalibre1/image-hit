@@ -1,0 +1,13 @@
+.mydiv{
+    height: 100px;
+    width: 100px;
+    border: 1px solid black;
+    margin: 1px;
+}
+.rowdiv{
+    display: flex;
+}
+img{
+    height: 100px;
+    width: 100px;
+}
